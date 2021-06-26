@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Introduction to HTML, CSS, and JavaScript
+Introduction to HTML, CSS, and JavaScript.
